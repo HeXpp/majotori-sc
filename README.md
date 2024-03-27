@@ -17,6 +17,10 @@ You can find the download for the code in the releases page in this repo.
 
 There's no issues in this decomp. (as far as I tried it).
 
+## Screenshots
+![image](https://github.com/HeXpp/majotori-sc/assets/97027903/0481324c-3aca-46ee-98cc-50ea537c062b)
+
+
 ### DMCA
 I'm not the owner of this code, nor the assets. I'm uploading this code for educational purposes and not to foment piracy.
 
