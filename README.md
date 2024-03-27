@@ -8,7 +8,9 @@ This is a decompilation of Majotori, an Unity game developed by Alva Majo.
 
 ## Known Issues
 🟩: Minimal issue, doesn't affect the playability (slight visual glitches or audio glitches).
+
 🟨: Noticeable issue (medium size visual glitches, physics bugs...).
+
 🟥: Affects the playability, if you compile the sc the game can't be played.
 
 There's no issues in this decomp. (as far as I tried it).
