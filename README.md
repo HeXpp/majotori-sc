@@ -2,6 +2,8 @@
 ![image](https://github.com/HeXpp/majotori-sc/assets/97027903/87d9b24f-b951-4c72-841e-397464984031)
 This is a decompilation of Majotori, an Unity game developed by Alva Majo.
 
+You can find the download for the code in the releases page in this repo.
+
 ## Details
 - **Size** (Uncompressed): ~2GB
 - **Unity version**: Unity 2017.4.40f1
